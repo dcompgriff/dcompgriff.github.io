@@ -8,5 +8,5 @@ main:
     url: /papers/
   - title: "Blog Posts"
     url: /blog/
-  - title: "Talks"
-    url: /talks/
+#  - title: "Talks"
+#    url: /talks/
