@@ -19,10 +19,6 @@ author_profile: true
 
 ---
 
-
-
-# Bio
-
 Daniel Griffin is a Senior Data Scientist at Cisco on the Digital Lifecycle Journeys data science team. He has an Undergraduate in Computer Engineering from the University of Cincinnati, and a Masters in Computer Science with a focus on Artificial Intelligence and Machine Learning from the University of Wisconsin Madison. While at the University of Wisconsin Madison, Daniel taught a course on Artificial Intelligence to over 400 students, and worked on research initiatives as a part of the David C. Page Medical Machine Learning Laboratory. He has over 7 years of experience in the data science field, and well over 50 data science projects to his name. He has experience performing advanced R&D development of machine learning algorithms, managing data science projects, and developing deployment pipelines and architectures for data science services in the cloud. His work spans across multiple research and industry institutions such as Wright Patterson AFB Research Laboratories in Dayton Ohio, Sandia National Labs in Albuquerque New Mexico, and now Cisco. 
 
 At his current workplace Cisco, Daniel has created and lead various data science initiatives for the Customer Experience organization. Some of the major projects include a ‘Social Media AI’ initiative for applying advanced text processing machine learning algorithms to Cisco’s social media channels in an automated fashion, which has already performed around 70 million predictions. Another initiative called ‘Customer Journey AI’ focuses on predictive and causal models to drive metrics around the customer journey Cisco cares about. He currently focuses on an initiative called the ‘Prescriptive Actions Engine’ which uses advanced agent based AI algorithms to prescribe actions Cisco can take to improve a customer’s experience.
