@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "This is the personal website and technical blog of Daniel Griffin."
 intro: 
-  - excerpt: '*If data is the new oil, then Data Science, Artificial Intelligence, and Machine Learning are the planes, trains, and automobiles that convert that oil into value.*
+  - excerpt: '*If data is the new oil, then Data Science, Artificial Intelligence, and Machine Learning are the planes, trains, and automobiles that convert that oil into value.*'
 
 feature_row:
   - image_path: assets/images/robot.jpg
