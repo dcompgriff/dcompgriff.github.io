@@ -76,7 +76,7 @@ author_profile: true
 27. OpenAI Gym Continuous RL System
 28. OpenAI Gym ML Approximate RL System
 29. OpenAI Gym Deep Learning Based RL System
-30. And Many Others I’ll have to remember later 😂…
+30. And Many Others...
 
 
 
