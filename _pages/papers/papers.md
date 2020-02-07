@@ -25,3 +25,6 @@ author_profile: true
 # Papers
 
 *Check Back Later, We Are Currently Working on New Papers!*
+
+
+[The Big Three: A Methodology to Increase Data Science ROI by Answering the Questions Companies Care About](/papers/The_Big_Three__Using_Data_Science_to_Get_Value_in_Industry.pdf).
